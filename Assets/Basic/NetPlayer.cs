@@ -29,7 +29,6 @@ public class NetPlayer : NetworkBehaviour
 
     void Start()
     {
-
         //_nameText = transform.Find("Info/NameText").GetComponent<TextMesh>();
         _rigid = GetComponent<Rigidbody2D>();
     }

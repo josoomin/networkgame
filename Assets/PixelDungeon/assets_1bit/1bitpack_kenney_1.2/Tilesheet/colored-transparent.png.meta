@@ -6816,7 +6816,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: colored-transparent_319
+      name: character_ghost
       rect:
         serializedVersion: 2
         x: 442
@@ -22812,6 +22812,7 @@ TextureImporter:
       colored-transparent_335: 1697727204
       colored-transparent_360: 1647743561
       colored-transparent_262: -770287526
+      character_ghost: -991000429
       colored-transparent_174: 792553433
       colored-transparent_148: 1183197668
       colored-transparent_584: -1907582986
@@ -23533,11 +23534,10 @@ TextureImporter:
       colored-transparent_815: 1345250310
       colored-transparent_613: 1990352470
       colored-transparent_620: 539543839
-      colored-transparent_319: -991000429
-      colored-transparent_483: 136214417
       colored-transparent_543: 938876590
-      colored-transparent_524: 1057663774
+      colored-transparent_483: 136214417
       colored-transparent_726: 391415202
+      colored-transparent_524: 1057663774
       colored-transparent_714: 385684223
       colored-transparent_338: -126031646
       colored-transparent_947: -1693017059
